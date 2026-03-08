@@ -1,0 +1,7 @@
+Use $peer-review-workbench to review my revised manuscript for IEEE Transactions on Sustainable Energy. The file is [/absolute/path/to/revised_manuscript.docx]. This is a second-round review after revision. Please focus on:
+
+1. whether the major concerns appear resolved
+2. what issues remain insufficiently addressed
+3. whether the manuscript should now be Minor Revision, Major Revision, or Accept
+4. an updated confidential note to the editor
+5. a concise remaining-action checklist for the authors

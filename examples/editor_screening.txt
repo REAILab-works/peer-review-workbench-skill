@@ -1,0 +1,7 @@
+Use $peer-review-workbench to perform an editor-style screening review for [Journal Name]. The file is [/absolute/path/to/manuscript.pdf]. Please focus on:
+
+1. scope fit with the journal
+2. novelty and contribution level
+3. whether the methods and evidence appear strong enough for peer review
+4. the biggest risks that may lead to rejection
+5. a recommendation on whether the paper should be sent out for review

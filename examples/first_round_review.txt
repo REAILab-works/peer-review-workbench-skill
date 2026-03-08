@@ -1,0 +1,8 @@
+Use $peer-review-workbench to review my manuscript for Applied Energy. The file is [/absolute/path/to/manuscript.docx]. Please act as a journal reviewer and provide:
+
+1. a recommendation: Reject, Major Revision, Minor Revision, or Accept
+2. a one-sentence overall verdict
+3. a confidential note to the editor
+4. major comments for the authors
+5. minor comments for the authors
+6. a prioritized revision checklist
