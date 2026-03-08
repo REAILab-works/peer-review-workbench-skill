@@ -1,0 +1,7 @@
+interface:
+  display_name: "Peer Review Workbench"
+  short_description: "Structured journal-style manuscript review"
+  default_prompt: "Use $peer-review-workbench to review my manuscript for a journal decision and structured reviewer comments."
+
+policy:
+  allow_implicit_invocation: true
