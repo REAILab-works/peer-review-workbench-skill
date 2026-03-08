@@ -2,7 +2,11 @@
 
 A standalone Codex skill for journal-style manuscript peer review.
 
+中英双语的论文审稿技能，用于把完整稿件转成结构化审稿意见，而不是作者侧修稿建议。
+
 It is designed for users who want Codex to act like a reviewer, not an author-side reviser.
+
+This bilingual skill is designed to turn a full manuscript into a structured reviewer report, not into author-side revision text.
 
 ## What it does
 
@@ -46,3 +50,7 @@ See:
 - This skill assumes the manuscript file is available.
 - It is optimized for structured peer-review output rather than direct manuscript rewriting.
 - It should not be used to fabricate line-by-line comments for a paper that has not been provided.
+
+## License
+
+MIT
